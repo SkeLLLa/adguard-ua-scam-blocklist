@@ -1,9 +1,9 @@
 
 ! Title: UA Scam Blocklist
-! Source: https://raw.githubusercontent.com/SkeLLLa/adguard-ua-scum-blocklist
+! Source: https://raw.githubusercontent.com/SkeLLLa/adguard-ua-scam-blocklist
 /master/adguard.txt
-! Home: https://github.com/SkeLLLa/adguard-ua-scum-blocklist
-! Contribute: https://github.com/SkeLLLa/adguard-ua-scum-blocklist/issues
+! Home: https://github.com/SkeLLLa/adguard-ua-scam-blocklist
+! Contribute: https://github.com/SkeLLLa/adguard-ua-scam-blocklist/issues
 ! License: MIT (https://mit-license.org/)
 
 ||yu-pay.me^
