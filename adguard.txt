@@ -9,3 +9,4 @@
 ||yu-pay.me^
 ||easypayment.me^
 ||fasterpays.me^
+||2dspays.xyz^
