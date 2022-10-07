@@ -8,3 +8,4 @@
 
 ||yu-pay.me^
 ||easypayment.me^
+||fasterpays.me^
