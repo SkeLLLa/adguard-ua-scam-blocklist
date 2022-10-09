@@ -10,3 +10,4 @@
 ||easypayment.me^
 ||fasterpays.me^
 ||2dspays.xyz^
+||secure2dpay.store^
