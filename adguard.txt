@@ -12,3 +12,4 @@
 ||2dspays.xyz^
 ||secure2dpay.store^
 ||guardpayment.me^
+||secure2dpay.store^
