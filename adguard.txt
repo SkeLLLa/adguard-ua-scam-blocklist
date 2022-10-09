@@ -11,3 +11,4 @@
 ||fasterpays.me^
 ||2dspays.xyz^
 ||secure2dpay.store^
+||guardpayment.me^
