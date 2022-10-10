@@ -13,3 +13,4 @@
 ||secure2dpay.store^
 ||guardpayment.me^
 ||1gоv.org.uа^
+||takepays.me^
