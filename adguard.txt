@@ -21,3 +21,4 @@
 ||dopomoga-pay.site^
 ||uservices.me^
 ||getpayment.me^
+||3dcpay.net^
