@@ -22,3 +22,4 @@
 ||uservices.me^
 ||getpayment.me^
 ||3dcpay.net^
+||sax-pay.me^
