@@ -25,3 +25,4 @@
 ||sax-pay.me^
 ||uvyplat.me^
 ||dopomoga-payment.com^
+||ib-pay.me^
