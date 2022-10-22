@@ -28,3 +28,4 @@
 ||ib-pay.me^
 ||vs-pay.me^
 ||mspayment.me^
+||sx-pay.me^
