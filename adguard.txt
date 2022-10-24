@@ -29,3 +29,4 @@
 ||vs-pay.me^
 ||mspayment.me^
 ||sx-pay.me^
+||dopomoga-online.com^
