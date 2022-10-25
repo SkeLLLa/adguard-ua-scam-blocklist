@@ -32,3 +32,4 @@
 ||dopomoga-online.com^
 ||pay-ms.me^
 ||3dc-check.com^
+||3dss-check.com^
