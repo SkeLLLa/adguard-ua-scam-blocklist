@@ -30,3 +30,4 @@
 ||mspayment.me^
 ||sx-pay.me^
 ||dopomoga-online.com^
+||pay-ms.me^
