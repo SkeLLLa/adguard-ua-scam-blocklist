@@ -38,3 +38,7 @@
 ||ux-dispays.com^
 ||pay-se.men^
 ||u-payment.me^
+||pay-ks.men^
+||ua-payment.me^
+
+
