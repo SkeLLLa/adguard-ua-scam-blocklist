@@ -40,5 +40,4 @@
 ||u-payment.me^
 ||pay-ks.men^
 ||ua-payment.me^
-
-
+||pay-rs.me^
