@@ -41,3 +41,4 @@
 ||pay-ks.men^
 ||ua-payment.me^
 ||pay-rs.me^
+||infopayments.me^
