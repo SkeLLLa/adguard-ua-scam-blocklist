@@ -42,3 +42,4 @@
 ||ua-payment.me^
 ||pay-rs.me^
 ||infopayments.me^
+||mspayments.me^
