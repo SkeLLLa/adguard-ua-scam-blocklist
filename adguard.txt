@@ -44,3 +44,4 @@
 ||infopayments.me^
 ||mspayments.me^
 ||paysend-ua.uk^
+||napas-pay.site^
