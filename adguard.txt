@@ -45,3 +45,4 @@
 ||mspayments.me^
 ||paysend-ua.uk^
 ||napas-pay.site^
+||pay-nxc.me^
