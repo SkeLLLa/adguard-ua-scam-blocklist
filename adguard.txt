@@ -46,3 +46,4 @@
 ||paysend-ua.uk^
 ||napas-pay.site^
 ||pay-nxc.me^
+||viplata-govua.cloud^
