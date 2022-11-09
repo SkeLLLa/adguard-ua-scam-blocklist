@@ -47,3 +47,5 @@
 ||napas-pay.site^
 ||pay-nxc.me^
 ||viplata-govua.cloud^
+||cukc-pay.me^
+
