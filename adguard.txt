@@ -50,3 +50,4 @@
 ||cukc-pay.me^
 ||cake-payment.me^
 ||upayment.mom^
+||pay-xec.me^
