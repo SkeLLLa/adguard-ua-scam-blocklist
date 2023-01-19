@@ -52,3 +52,4 @@
 ||upayment.mom^
 ||pay-xec.me^
 ||otrimannia.site^
+||pay-banker.me^
